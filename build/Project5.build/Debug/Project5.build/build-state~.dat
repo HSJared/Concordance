@@ -1,0 +1,176 @@
+TProject5
+v7
+r0
+t293835700.275099
+cCheck dependencies
+cCompileC build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.o "/Users/Jared/Documents/Computer Science 262/Project5/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cCompileC build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o "/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/Jared/Documents/Computer Science 262/Project5/build/Debug/Project5" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp
+c000000004BD3516A000000000000116F
+t1272140138
+s4463
+i<iostream>
+i"concordance.h"
+
+N/Users/Jared/Documents/Computer Science 262/Project5/Reference.h
+c000000004BD35B19000000000000056A
+t1272142617
+s1386
+i<iostream>
+
+N/Users/Jared/Documents/Computer Science 262/Project5/Word.h
+c000000004BD35BA10000000000000CAA
+t1272142753
+s3242
+i<iostream>
+i<string>
+i<cassert>
+i"reference.h"
+i"arraylist.h"
+
+N/Users/Jared/Documents/Computer Science 262/Project5/arraylist.h
+c000000003AC7B9C000000000000034BC
+t986167744
+s13500
+i<iostream>
+i<string>
+i<cassert>
+
+N/Users/Jared/Documents/Computer Science 262/Project5/binarysearchtree.h
+c000000004BD3471F0000000000002FD3
+t1272137503
+s12243
+i"binarytree.h"
+
+N/Users/Jared/Documents/Computer Science 262/Project5/binarytree.h
+c000000004787D06C0000000000004E44
+t1200083052
+s20036
+i<iostream>
+i<string>
+i<cassert>
+i"binarytreenode.h"
+i"linkedqueue.h"
+
+N/Users/Jared/Documents/Computer Science 262/Project5/binarytreenode.h
+c000000004787D334000000000000073C
+t1200083764
+s1852
+i<iostream>
+i<cassert>
+
+N/Users/Jared/Documents/Computer Science 262/Project5/build/Debug/Project5
+t2
+s0
+
+N/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o
+t1272142900
+s159144
+
+N/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/Project5.LinkFileList
+c000000004BD35C330000000000000104
+t1272142899
+s260
+
+N/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.o
+t1272142900
+s67008
+
+N/Users/Jared/Documents/Computer Science 262/Project5/circlinkedlist.h
+c000000003C95E5720000000000003F30
+t1016456562
+s16176
+i<iostream>
+i<string>
+i<cassert>
+i"doublylinkedlistnode.h"
+
+N/Users/Jared/Documents/Computer Science 262/Project5/concordance.h
+c000000004BD352870000000000001619
+t1272140423
+s5657
+i<iostream>
+i<string>
+i<cassert>
+i<fstream>
+i"binarysearchtree.h"
+i"word.h"
+i"reference.h"
+i"arraylist.h"
+
+N/Users/Jared/Documents/Computer Science 262/Project5/doublylinkedlistnode.h
+c0000000045F02FCD00000000000005D5
+t1173368781
+s1493
+i<iostream>
+
+N/Users/Jared/Documents/Computer Science 262/Project5/linkedqueue.h
+c000000004BD358360000000000000BCB
+t1272141878
+s3019
+i<iostream>
+i<string>
+i<cassert>
+i"circlinkedlist.h"
+
+N/Users/Jared/Documents/Computer Science 262/Project5/main.cpp
+c000000004BD0E777000000000000008F
+t1271981943
+s143
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293835699#293835699#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o "/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s293835699.573440
+e293835700.252331
+r1
+xCompileC
+xbuild/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o
+x/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp: In function 'std::string getLocation()':
+o/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp:196: warning: control reaches end of non-void function
+o/Users/Jared/Documents/Computer Science 262/Project5/word.h: In function 'std::ostream& operator<<(std::ostream&, const Word&)':
+o/Users/Jared/Documents/Computer Science 262/Project5/word.h:104: warning: control reaches end of non-void function
+o/Users/Jared/Documents/Computer Science 262/Project5/reference.h: In function 'std::ostream& operator<<(const Reference&, std::ostream&)':
+o/Users/Jared/Documents/Computer Science 262/Project5/reference.h:62: warning: control reaches end of non-void function
+lSLF07#2@81"Compile /Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp293835699#293835700#0(747"/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp: In function 'std::string getLocation()':/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp:196: warning: control reaches end of non-void function/Users/Jared/Documents/Computer Science 262/Project5/word.h: In function 'std::ostream& operator<<(std::ostream&, const Word&)':/Users/Jared/Documents/Computer Science 262/Project5/word.h:104: warning: control reaches end of non-void function/Users/Jared/Documents/Computer Science 262/Project5/reference.h: In function 'std::ostream& operator<<(const Reference&, std::ostream&)':/Users/Jared/Documents/Computer Science 262/Project5/reference.h:62: warning: control reaches end of non-void function3(22@40"Control reaches end of non-void function293835700#116#129#0(6@73"/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp293832938#196#0#196#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function293835700#374#115#0(6@59"/Users/Jared/Documents/Computer Science 262/Project5/word.h293835553#104#0#104#0#40"control reaches end of non-void function0(22@40"Control reaches end of non-void function293835700#628#119#0(6@64"/Users/Jared/Documents/Computer Science 262/Project5/reference.h293835417#62#0#62#0#40"control reaches end of non-void function0(0#0#73"/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp7886488416478786560#1509"    cd "/Users/Jared/Documents/Computer Science 262/Project5"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-generated-files.hmap" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-own-target-headers.hmap" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-all-target-headers.hmap" -iquote "/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-project-headers.hmap" "-F/Users/Jared/Documents/Computer Science 262/Project5/build/Debug" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Debug/include" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/DerivedSources/x86_64" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/DerivedSources" -c "/Users/Jared/Documents/Computer Science 262/Project5/ConcordanceMaker.cpp" -o "/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o"0#
+
+CCompileC build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.o "/Users/Jared/Documents/Computer Science 262/Project5/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s293835699.540264
+e293835700.046796
+r1
+xCompileC
+xbuild/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.o
+x/Users/Jared/Documents/Computer Science 262/Project5/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/Jared/Documents/Computer Science 262/Project5/main.cpp293835699#293835700#0(0"0(0#0#61"/Users/Jared/Documents/Computer Science 262/Project5/main.cpp7886488416478786560#1485"    cd "/Users/Jared/Documents/Computer Science 262/Project5"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-generated-files.hmap" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-own-target-headers.hmap" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-all-target-headers.hmap" -iquote "/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Project5-project-headers.hmap" "-F/Users/Jared/Documents/Computer Science 262/Project5/build/Debug" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Debug/include" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/DerivedSources/x86_64" "-I/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/DerivedSources" -c "/Users/Jared/Documents/Computer Science 262/Project5/main.cpp" -o "/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Jared/Documents/Computer Science 262/Project5/build/Debug/Project5" normal x86_64
+s293835700.252507
+e293835700.275046
+r0
+xLd
+x/Users/Jared/Documents/Computer Science 262/Project5/build/Debug/Project5
+xnormal
+xx86_64
+old: duplicate symbol _main in /Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o and /Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.o
+ocollect2: ld returned 1 exit status
+lSLF07#2@78"Link /Users/Jared/Documents/Computer Science 262/Project5/build/Debug/Project5293835700#293835700#0(389"ld: duplicate symbol _main in /Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o and /Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.ocollect2: ld returned 1 exit statusCommand /Developer/usr/bin/g++-4.2 failed with exit code 12(13@289"Duplicate symbol _main in /Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/ConcordanceMaker.o and /Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/main.o293835700#0#294#0(6@0"293835700#0#0#0#0#0"0(4@58"Command /Developer/usr/bin/g++-4.2 failed with exit code 1293835700#18446744073709551615#0#0(1@0"0(0#0#0"4300911832#582"    cd "/Users/Jared/Documents/Computer Science 262/Project5"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Jared/Documents/Computer Science 262/Project5/build/Debug" "-F/Users/Jared/Documents/Computer Science 262/Project5/build/Debug" -filelist "/Users/Jared/Documents/Computer Science 262/Project5/build/Project5.build/Debug/Project5.build/Objects-normal/x86_64/Project5.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Jared/Documents/Computer Science 262/Project5/build/Debug/Project5"1#
+
